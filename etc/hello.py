@@ -1,4 +1,4 @@
-#gunicorn configuration file
+#gunicorn configuration file for hello.py
 
 CONFIG = {
    'mode': 'wsgi',
